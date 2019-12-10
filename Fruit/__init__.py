@@ -1,0 +1,2 @@
+from Apple import functionApplePrint
+from Orange import functionOrangePrint
