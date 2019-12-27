@@ -12,4 +12,4 @@ def bubble_sort(list):
 
 list = [7,6,0,11,9,3,1]
 result = bubble_sort(list)
-print result
+print(result)

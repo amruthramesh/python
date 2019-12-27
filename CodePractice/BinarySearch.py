@@ -19,6 +19,6 @@ list = [5,7,44,6,8,9]
 x = int(input('Enter the number to search : '))
 result = binary_search(list, x)
 if result:
-    print 'Number found'
+    print('Number found')
 else:
-    print 'Number not found'
+    print('Number not found')

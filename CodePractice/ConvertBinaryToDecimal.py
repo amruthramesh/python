@@ -5,7 +5,7 @@ def convertBinaryIntoDecimal(a):
         decimal = decimal + dec * pow(2, i)
         a = a//10
         i += 1
-    print decimal
+    print(decimal)
 
 x = int(input('Enter your Binary value : '))
 convertBinaryIntoDecimal(x)

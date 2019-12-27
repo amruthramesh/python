@@ -10,6 +10,6 @@ str2 = raw_input('Enter second string : ')
 
 result = anagram(str1, str2)
 if result:
-    print 'Your word is an Anagram'
+    print('Your word is an Anagram')
 else:
-    print 'Your word is not an Anagram'
+    print('Your word is not an Anagram')

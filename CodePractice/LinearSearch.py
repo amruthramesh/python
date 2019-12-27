@@ -10,6 +10,6 @@ list = [3,7,5,6,9,8,23]
 x = int(input('Enter the number to search : '))
 result = linearSearch(list, x)
 if result:
-    print 'Number found'
+    print('Number found')
 else:
-    print 'Number not found'
+    print('Number not found')

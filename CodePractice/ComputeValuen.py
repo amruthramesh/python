@@ -4,4 +4,4 @@ def compute_n(a):
 
 
 x = int(input('Enter the value : '))
-print compute_n(x)
+print(compute_n(x))
