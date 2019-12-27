@@ -14,4 +14,4 @@ def selection_sort(list):
 
 list = [99,88,77,66,55,44,33,11,22]
 result = selection_sort(list)
-print result
+print(result)

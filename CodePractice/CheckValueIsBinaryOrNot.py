@@ -9,7 +9,7 @@ def checkBinaryOrNot(a):
         return False
 
 
-get_number = raw_input('Enter your number : ')
+get_number = input('Enter your number : ')
 result = checkBinaryOrNot(get_number)
 if result:
     print('{} is a Binary'.format(get_number))

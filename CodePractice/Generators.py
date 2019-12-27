@@ -6,5 +6,5 @@ def topten():
         n += 1
 value = topten()
 for i in value:
-    print i
+    print(i)
 

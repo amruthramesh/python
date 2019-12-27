@@ -11,4 +11,4 @@ def count_case(a):
 
 a = "The Quick Brown"
 upper, lower = count_case(a)
-print upper, lower
+print(upper, lower)

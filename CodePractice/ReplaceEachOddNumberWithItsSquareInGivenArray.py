@@ -1,15 +1,16 @@
+
 def square_of_odd_in_list(list):
-    print 'Before process',list
+    print('Before process',list)
 
     # list = [i**2 if i%2 !=0 else i for i in list]
-    print id(list)
+    print(id(list))
     for ind, i in enumerate(list):
 
         if i%2 != 0:
             sq = i * i
             list[ind] = sq
-    print id(list)
-    print 'after process',list
+    print (list)
+    print('after process',list)
 
 
 

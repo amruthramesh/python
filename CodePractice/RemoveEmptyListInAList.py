@@ -15,4 +15,4 @@ def remove_empty_list(a):
 
 ye = [[2,4,5,6], [], [5,5,5,5], [], [55], ['amruth']]
 result = remove_empty_list(ye)
-print result
+print(result)

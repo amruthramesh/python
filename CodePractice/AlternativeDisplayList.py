@@ -26,7 +26,7 @@ def countAndAddNone(a, b):
         else:
             c.extend([a[i], b[i]])
             
-    print c
+    print(c)
             
 
 

@@ -18,6 +18,6 @@ a = 'The Quick brown Fox Jumps over a lazy dog'
 b = 'Venkat'
 result = panagram(b)
 if result:
-    print 'It is a Panagram'
+    print('It is a Panagram')
 else:
-    print 'your word is not a panagram'
+    print('your word is not a panagram')
